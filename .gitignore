@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+.streamlit/
+models/
+*.gguf
+.DS_Store
+Thumbs.db
