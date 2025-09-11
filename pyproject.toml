@@ -1,0 +1,12 @@
+[project]
+name = "aicareer-bot"
+version = "0.0.1"
+description = "Local-first Streamlit + llama.cpp career advisor"
+requires-python = ">=3.9,<3.13"
+dependencies = [
+  "streamlit==1.49.1",
+  "llama-cpp-python==0.3.2",
+  "pandas==2.3.2",
+  "python-dotenv==1.1.1",
+  "huggingface-hub==0.34.4",
+]
